@@ -87,7 +87,8 @@ The dashboard includes:
 
 ## Power BI Dashboard Preview
 
-<img width="617" height="348" alt="dashboard2" src="https://github.com/user-attachments/assets/bb42ade7-ab8c-4c55-a3ca-bb49e38cafdb" />
+<img width="617" height="347" alt="Mod_dashboard" src="https://github.com/user-attachments/assets/8a32ff88-e548-43f8-913f-f3526f43cc7d" />
+
 
 
 ---
