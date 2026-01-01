@@ -55,7 +55,8 @@ The dashboard is designed for quick decision-making. It includes:
 * **High-Risk Indicators:** Color-coded charts that highlight "red flag" groups for immediate attention.
 
 ### 🎥 Dashboard in Action
-![Employee Attrition Dashboard Demo](https://github.com/user-attachments/assets/9be84fbd-a219-4205-94e6-c780f1599700)
+
+![last](https://github.com/user-attachments/assets/2793f8f9-2620-4c93-b99a-4434702f7898)
 
 
 ---
