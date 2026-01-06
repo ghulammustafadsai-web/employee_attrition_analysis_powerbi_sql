@@ -75,9 +75,7 @@ This analysis answers questions such as:
 | YearsInCurrentRole | Tenure in current role |
 | YearsSinceLastPromotion | Time since last promotion |
 | YearsWithCurrManager | Time under current manager |
-
-**Data Model Screenshot**  
-*(Insert image here when available)*  
+ 
 
 </details>
 
@@ -93,14 +91,16 @@ By tracking compensation fairness, workload pressure, and onboarding success, HR
 <details>
 <summary>📊 Click to expand: Dashboard Overview</summary>
 
-**Dashboard-1: Executive Summary**  
-*(Insert image)*  
+**Dashboard-1: Executive Dasboard**  
+ 
+<img width="615" height="344" alt="dashboard1" src="https://github.com/user-attachments/assets/ac2e746e-121a-4e7b-9ee5-42a359bb2fa2" />
 
-**Dashboard-2: Workforce Overview**  
-*(Insert image)*  
 
-**Dashboard-3: Attrition Details**  
-*(Insert image)*  
+**Dashboard-2: Insights and HR REcommendatioins**  
+
+<img width="622" height="344" alt="d2" src="https://github.com/user-attachments/assets/63732618-f827-4db7-ace6-f919d68ab055" />
+
+ 
 
 </details>
 
