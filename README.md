@@ -166,7 +166,7 @@ If you have any questions, suggestions, or would like to connect regarding this 
 
 - **Name:** Ghulam Mustafa  
 - **Email:** ghulammustafa.ds.ai@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ghulam-mustafa-data-analyst)  
-- **GitHub:** [github.com/yourusername](https://github.com/ghulammustafadsai-web)  
+- **LinkedIn:** www.linkedin.com/in/ghulam-mustafa-data-analyst  
+- **GitHub:** https://github.com/ghulammustafadsai-web  
 
 I am always open to collaboration, feedback, or discussing data analytics and lending projects.  
